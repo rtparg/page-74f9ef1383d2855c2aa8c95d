@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2b658969cbc36c92fc3b708f",
+  "owner": "rtparg",
+  "repo": "page-74f9ef1383d2855c2aa8c95d",
+  "title": "机场测评",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "74f9ef1383d2855c2aa8c95d",
+      "a": "机场测评",
+      "b": "",
+      "entity": "机场测评",
+      "brand": "机场测评",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ca1aededbf32a3294412069009a6de9de775709074e0c742a876404aa52bd7cd",
+      "content": {
+        "keyword1": "机场测评",
+        "keyword2": "",
+        "primary_entity": "机场测评",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场测评说明如何按场景选择 VPN 与网络加速订阅，并提供客户端下载、导入步骤和三档套餐对照，便于在官网信息内自行判断。",
+          "AI_DESCRIPTION": "机场测评说明如何按场景选择 VPN 与网络加速订阅，并提供客户端下载、导入步骤和三档套餐对照，便于在官网信息内自行判断。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;max-width:100%}body{color:#e8f4f8;background:#071525;font-family:system-ui,-apple-system,BlinkMacSystemFont,sans-serif;font-size:17px;line-height:1.75;overflow-wrap:anywhere}a{color:#8dfff4}a:hover{color:#fff}.wrap{width:min(1040px,100%);margin:0 auto;padding:0 1rem}header{background:#0a1c30;border-bottom:1px solid #16475c}.bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.75rem;padding:.9rem 0}.logo{font-weight:800;color:#e9fffc;font-size:1.15rem}nav{display:flex;flex-wrap:wrap;gap:.55rem 1rem}nav a{color:#d7f7f3;text-decoration:none}main{padding:1.1rem 0 2.4rem}h1{font-size:1.85rem;line-height:1.3;margin:.35rem 0 .55rem;color:#f4fffd}h2{font-size:1.4rem;margin:1.8rem 0 .7rem;color:#d9fff8;border-bottom:2px solid #1a6f78;padding-bottom:.3rem}h3{font-size:1.12rem;margin:1rem 0 .35rem;color:#bffaf3}p{margin:.55rem 0}.lead{font-size:1.06rem}.cols{display:grid;grid-template-columns:1fr;gap:1rem}.card,.plan{background:#0d243c;border:1px solid #1b4660;border-radius:12px;padding:1rem 1.05rem;min-width:0}.plans{display:grid;grid-template-columns:1fr;gap:.9rem}.plan.featured{border-color:#2ad4c8;background:#0e2c40}.tag{display:inline-block;margin:0 0 .4rem;padding:.1rem .5rem;border-radius:999px;background:#134e52;color:#d9fffb;font-size:.9rem}.price{font-size:1.5rem;color:#7dfff2;margin:.2rem 0}.annual{color:#d5ece8}ul,ol{margin:.35rem 0 .2rem;padding-left:1.2rem}li{margin:.28rem 0}.faq{background:#082033;border:1px solid #1a5c68;border-radius:14px;padding:.4rem .85rem 1rem;margin-top:.3rem}details{background:#0e2a42;border:1px solid #1e5670;border-left:5px solid #2ad4c8;border-radius:10px;padding:.75rem .9rem;margin:.75rem 0}summary{font-weight:700;cursor:pointer;color:#f3fffd}details p{margin:.55rem 0 0}footer{border-top:1px solid #16475c;padding:1.1rem 0 2rem;color:#d5e6e2}@media(min-width:760px){.cols{grid-template-columns:1.35fr .8fr}.plans{grid-template-columns:repeat(3,1fr)}h1{font-size:2.3rem}}</style><header><div class=\"wrap bar\"><div class=\"logo\">机场测评</div><nav><a href=\"#about\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">订阅方案</a><a href=\"#guide\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main id=\"main\"><div class=\"wrap\"><h1>机场测评</h1><p class=\"lead\">机场测评把 VPN 订阅、网络加速和客户端下载放在同一页对照：先确认使用场景，再看流量、设备数和线路类型，最后按说明完成导入。本页只做静态说明，不收集账号，也不发起支付。</p><section id=\"about\"><h2>品牌简介</h2><div class=\"cols\"><div><p>机场测评面向需要稳定访问境外网站、协作工具或公开资料的读者，把可核对的套餐条件写清楚：每月流量、同时在线设备、流媒体与游戏相关能力、支持方式。它不是测速排行榜，也不代替你自己的连通测试。</p><p>若日常只访问国内站点，通常不必购买跨境线路。若会议、文档或代码托管在境外，再按晚高峰稳定性和设备数量选择档位。页面不刊登用户打分或转载评论，避免把介绍写成虚假口碑。</p><h3>阅读这份说明能得到什么</h3><p>你可以对照三个已列出的订阅档，理解基础线路、流媒体解锁和专线优化分别写在哪一档，并知道客户端应从可识别的官网渠道安装，而不是来源不明的安装包。</p></div><aside class=\"card\"><h3>下单前先核对三项</h3><ul><li>月流量是否覆盖视频、同步和备份，而不是只够浏览文字。</li><li>设备数是否包含常用的手机、电脑和平板。</li><li>是否确实需要流媒体解锁或游戏向专线；不需要就不必选更高档。</li></ul><p>网络效果还受当地运营商、目的站点和时段影响，任何档位都不能保证固定速度。</p></aside></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>远程办公与学习</h3><p>参加境外会议、打开公开课程或同步代码仓库时，优先保证电脑和手机都能在线。基础版的 3 台设备适合一个人的主力设备；若还要备用机，再看旗舰版的 5 台额度。</p><h3>流媒体</h3><p>基础版列出解锁基础流媒体，旗舰版列出全节点原生流媒体解锁。片库的地区策略会调整，解锁范围以当期节点说明为准，不能理解为永久可用。</p><h3>对延迟敏感的游戏</h3><p>旗舰版写有 IPLC 专线游戏加速优化，含义是用专线减少绕行抖动。它不能保证每款游戏的每台服务器都低延迟。只偶尔玩游戏时，不必仅为这一句选择最高价。</p><h3>小团队共用订阅</h3><p>团队版面向约二十台设备以内的小组，流量额度更高，并提供定制路由与客户经理的服务描述。适合统一采购、分设备使用，不应用于未授权访问、扫描或隐瞒流量来源。</p></section><section id=\"plans\"><h2>订阅方案</h2><p>下列文字按公布的档位原样列出，便于和自己的用量对照。年付是一次支付全年的展示价格。购买与发票以实际开通渠道为准，本页没有结算表单。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"tag\">档位对照中信息更全</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"guide\"><h2>客户端下载与操作说明</h2><h3>官网下载前先核对</h3><p>机场测评的客户端下载说明集中在本节，链接只指向本页锚点，不跳到陌生网盘。安装前确认系统版本、套餐剩余设备名额，以及安装包是否来自你已经核验的官网渠道。</p><ul><li>桌面系统使用客户端自带的订阅栏，导入后先更新再连接。</li><li>安卓设备优先走可核验的应用渠道，只授予建立连接所需的权限。</li><li>苹果设备按正规客户端或系统描述文件的官方步骤操作，拒绝来源不清的企业签名包。</li></ul><h3>导入订阅并连接</h3><ol><li>在已开通的账户中复制订阅链接，只保存在自己的客户端里，不要发到公开聊天。</li><li>打开客户端，选择添加订阅或从剪贴板导入，然后执行更新。</li><li>在节点列表中挑选延迟较低且未标满载的线路，用一个常用网页做连通测试。</li><li>需要区分国内外流量时保留默认分流；只有明确需要时再改成全局代理。</li><li>更换手机或电脑前，先在旧设备删除配置，避免占满同时在线名额。</li><li>更新失败时，先看系统时间是否正确、本地是否已有其他代理冲突、订阅是否过期，再按所购档位联系支持。旗舰版为优先工单，团队版为客户经理。</li></ol><p><a href=\"#plans\">返回订阅方案</a> · <a href=\"#faq\">查看常见问题</a></p></section><section id=\"faq\"><h2>常见问题</h2><div class=\"faq\"><details><summary>机场测评和单独购买一个加速器有什么不同？</summary><p>机场测评把 VPN、网络加速和客户端下载放在一起说明，重点是流量、设备数和线路类型能否对上场景。加速器一词在市面上有时只指游戏或下载优化，未必包含跨境访问。下单前看清权益列表，而不是只看名称。</p></details><details><summary>三个套餐应该怎么选？</summary><p>一个人、设备不超过三台、主要是浏览和轻度视频，可以从基础版算起。需要更多流量、五台设备、流媒体和游戏向专线说明时看旗舰版。多人共用、设备接近二十台或需要定制路由时再看团队版。先按设备数排除，再按流量排除。</p></details><details><summary>客户端下载后怎样导入订阅？</summary><p>安装来自可核验渠道的客户端，复制自己账户里的订阅链接，在客户端中添加订阅并更新。更新成功后再选节点测试。不要把订阅链接贴到论坛，它相当于线路的使用凭证。</p></details><details><summary>流量用完或设备超过上限会怎样？</summary><p>极速流量按各档每月额度计算，用尽后的具体策略以开通时的条款为准，可能是降速或暂停，页面不另外承诺。同时在线超过 3、5 或 20 台时，新设备通常无法再连上，需要先退出不用的设备。</p></details><details><summary>流媒体解锁和游戏加速是每个套餐都有吗？</summary><p>不是。基础版只写基础流媒体和普通线路；旗舰版才同时写全节点原生流媒体解锁和 IPLC 专线游戏加速优化；团队版强调高带宽、定制路由和客户经理，没有把游戏专线写成必选项。需要哪一项，就选写明该项的档位。</p></details><details><summary>为什么页面不直接提供外部安装包地址？</summary><p>静态说明页不附带可执行文件，以免读者误下第三方包。请通过你已确认的机场测评官网或官方下载入口获取客户端，并用本节步骤核对权限与订阅导入。任何要求提前付款到私人账户、或索要验证码的页面都不应继续。</p></details><details><summary>团队版的定制路由是什么意思？</summary><p>它表示可以按小组需求调整哪些地址走代理、哪些地址直连，方便公司常用系统保持直连。具体规则由开通后的支持人员协助配置，本页不提供现成规则文件。该能力不能用来规避授权、隐藏入侵或接入不属于自己的网络。</p></details></div></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>机场测评官网的本页用于说明 VPN 订阅、网络加速与客户端下载步骤。请遵守所在地法律和软件许可。效果随运营商、目的站点与时段变化。</p></div></footer>",
+          "hash": "ac1a58e4333d4bb69a60c8feb3d64598d1b03f65f5acdb76e68fc6eb709a1bf5",
+          "seo": {
+            "title": "机场测评：VPN 网络加速与客户端下载",
+            "keywords": "机场测评,VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "机场测评说明如何按场景选择 VPN 与网络加速订阅，并提供客户端下载、导入步骤和三档套餐对照，便于在官网信息内自行判断。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "junfawangluo.cn",
+    "host": "p-a7f79fe8a6.junfawangluo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "c069c5f6dce62f769dc966872060bc6b0116c57a3ffd5a0808ab850d42a2ae2d",
+    "sitemap.xml": "3716d93561c0d917d8a06ebdaecf866255ba1ebe9377e76dab62598bc20f8efd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b736c053c3223472d70962cfa72b6ebcf660441b776b975d9e8c27966089e5ab",
+    "robots.txt": "cc1d7f82962af8350e6e67aec834d88172cbaa6b53fe3e3709d7761902e4816e",
+    "55c935c2d0115277e0359dc77e67f5bc.txt": "6093b4ce4dfad09472f3bab87c43b51571075f9caa8049bdc6e142db8f2bb58e"
+  },
+  "revision": "004aa82c929cbf4fc3c692ddf6c69d1ad5bfcadbe1e74a15e7fa5d643d5f7b04"
+}
